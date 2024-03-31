@@ -48,4 +48,5 @@ it('intercept and intergration blw ui and api',()=>{
 
 })
 console.log('api intercept')
+console.log('api intercept')
 })
