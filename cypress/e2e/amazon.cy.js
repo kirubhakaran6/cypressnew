@@ -6,6 +6,7 @@ describe('amazon',()=>{
             if($ele.text().includes('Best Offers on Storite')){
                
                 cy.wrap($ele).click({force:true})
+                cy.wrap($ele).click({force:true})
             }
         })
 
